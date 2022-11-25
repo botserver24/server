@@ -1,9 +1,9 @@
 {
-	"ip":"donator3.falixnodes.net",
-	"port": 25710,
-	"name": "afkbot1",
+	"ip":"NOOBSMP84.aternos.me",
+	"port": 16452,
+	"name": "afkbot2",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
-	"register-cmd":"/register (type_ur_pass_here(remember_no_spaces)) (type_ur_pass_here(remember_no_spaces))",
-	"login-cmd":"/login (type_ur_pass_here)"
+	"register-cmd":"/register 16452",
+	"login-cmd":"/login 16452"
 }
